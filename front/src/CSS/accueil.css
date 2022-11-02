@@ -1,0 +1,8 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.ligne{
+    height: 1px;
+    background: #000;
+}
+.mono{
+    color: rgb(167, 108, 6);
+}

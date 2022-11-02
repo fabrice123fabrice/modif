@@ -1,0 +1,7 @@
+#topnav{
+    position: absolute;
+    right: 15px;
+}
+#link:hover{
+scale: 5px;
+}

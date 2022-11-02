@@ -1,0 +1,24 @@
+.jumbotron{
+  background: url('../image/DJI_0201-1-1024x575.jpg' ) no-repeat fixed bottom;
+  background-size:cover; 
+  color:#ccc;
+  height: 300px;
+  position: relative;
+  z-index: -2;
+}
+.overlay{
+    background-color: #000;
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+}
+.contain{
+    position: absolute;
+    margin-left: 40%;
+    transform: translateX(-60%);
+    top: 100px;
+}
