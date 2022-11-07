@@ -1,0 +1,10 @@
+.partenaires{
+    position: absolute;
+    width: 1000px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    top: 200px;
+}
+Card{
+    margin: 4px;
+}
