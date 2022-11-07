@@ -3,8 +3,11 @@
     width: 1000px;
     margin-left: 50%;
     transform: translateX(-50%);
-    top: 200px;
 }
-Card{
-    margin: 4px;
+.card{
+    margin:50px;
+}
+.container{
+    width: 600px;
+    margin-bottom: 20px;
 }
